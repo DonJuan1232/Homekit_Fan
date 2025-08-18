@@ -6,7 +6,7 @@ The fan is a WatsHome FD-75C
 
 All you need to do this yourself is a:
 1x esp32
-1x MG996R servo motoro
+1x MG996R servo motor
 wiring
 5v 2amp power supply(I had this laying arround so I used that)
 
